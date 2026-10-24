@@ -1,0 +1,189 @@
+{
+    "name": "Trollian Client",
+    "description": "Homestuck Troll Chat Client",
+    "authors": [
+        {
+            "name": "refact0r and whitty"
+        }
+    ],
+    "semanticColors": {
+        "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
+            "#171717"
+        ],
+        "ANDROID_RIPPLE": [
+            "#33E30421"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#E30421"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#33BFBFBF"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#303030"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#272727"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#202020"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#33E30421"
+        ],
+        "BG_BASE_TERTIARY": [
+            "#202020"
+        ],
+        "BG_BASE_PRIMARY": [
+            "#303030"
+        ],
+        "BG_BASE_SECONDARY": [
+            "#272727"
+        ],
+        "BG_BRAND": [
+            "#E30421"
+        ],
+        "BG_SURFACE_RAISED": [
+            "#353535"
+        ],
+        "BG_SURFACE_OVERLAY_TMP": [
+            "#272727"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#303030"
+        ],
+        "CARD_SECONDARY_BG": [
+            "#272727"
+        ],
+        "CHANNEL_ICON": [
+            "#BFBFBF"
+        ],
+        "EMBED_BACKGROUND": [
+            "#272727"
+        ],
+        "EMBED_BACKGROUND_ALTERNATE": [
+            "#202020"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#E30421"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#666666"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#BFBFBF"
+        ],
+        "PANEL_BG": [
+            "#272727"
+        ],
+        "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
+            "#B00019"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#353535"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BORDER": [
+            "#666666"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
+            "#E30421"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_TEXT": [
+            "#F2F2F2"
+        ],
+        "REDESIGN_BUTTON_TERTIARY_TEXT": [
+            "#E30421"
+        ],
+        "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+            "#E30421"
+        ],
+        "TEXT_NORMAL": [
+            "#BFBFBF"
+        ],
+        "TEXT_PRIMARY": [
+            "#F2F2F2"
+        ],
+        "TEXT_SECONDARY": [
+            "#BFBFBF"
+        ],
+        "THREAD_CHANNEL_SPINE": [
+            "#E30421"
+        ],
+        "PREMIUM_NITRO_PINK_TEXT": [
+            "#E30421"
+        ],
+        "TEXT_MUTED": [
+            "#999999"
+        ],
+        "TEXT_LINK": [
+            "#E30421"
+        ],
+        "REDESIGN_CHAT_INPUT_BACKGROUND": [
+            "#272727"
+        ],
+        "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+            "#303030"
+        ],
+        "INPUT_BACKGROUND": [
+            "#272727"
+        ],
+        "TEXT_DANGER": [
+            "#E30421"
+        ],
+        "BUTTON_OUTLINE_DANGER_BORDER": [
+            "#E30421"
+        ],
+        "INFO_DANGER_BACKGROUND": [
+            "#33E30421"
+        ],
+        "INFO_DANGER_FOREGROUND": [
+            "#E30421"
+        ],
+        "STATUS_DANGER": [
+            "#E30421"
+        ],
+        "STATUS_DND": [
+            "#E30421"
+        ],
+        "BACKGROUND_MESSAGE_AUTOMOD": [
+            "#1AE30421"
+        ],
+        "BACKGROUND_MESSAGE_AUTOMOD_HOVER": [
+            "#33E30421"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#33E30421"
+        ]
+    },
+    "rawColors": {
+        "BLUE_345": "#E30421",
+        "GREEN_430": "#E30421",
+        "RED_430": "#E30421",
+        "RED_460": "#C9001B",
+        "GREEN_460": "#B00019",
+        "BRAND_260": "#F25A6B",
+        "BRAND_360": "#E30421",
+        "BRAND_500": "#E30421",
+        "BRAND_560": "#B00019",
+        "PLUM_13": "#E30421",
+        "PLUM_14": "#353535",
+        "PLUM_15": "#E30421",
+        "PLUM_16": "#303030",
+        "PLUM_17": "#272727",
+        "PLUM_18": "#202020",
+        "PLUM_19": "#B00019",
+        "PLUM_20": "#303030",
+        "PLUM_22": "#272727",
+        "PLUM_24": "#383838",
+        "PRIMARY_500": "#383838",
+        "PRIMARY_600": "#303030",
+        "PRIMARY_660": "#272727",
+        "PRIMARY_700": "#202020",
+        "PRIMARY_800": "#171717"
+    },
+    "spec": 2,
+    "plus": {
+        "version": 0,
+        "mentionLineColor": "#E30421"
+    }
+}
