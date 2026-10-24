@@ -1,0 +1,80 @@
+{
+  "name": "Trollian Client",
+  "description": "Homestuck Troll Chat Client",
+  "authors": [
+    {
+      "name": "refact0r and whitty"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": [
+      "#303030"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#272727"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#202020"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#303030"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#272727"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#202020"
+    ],
+    "TEXT_NORMAL": [
+      "#BFBFBF"
+    ],
+    "TEXT_MUTED": [
+      "#666666"
+    ],
+    "HEADER_PRIMARY": [
+      "#F2F2F2"
+    ],
+    "HEADER_SECONDARY": [
+      "#D9D9D9"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#999999"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#E30421"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#E30421"
+    ],
+    "BRAND_500": [
+      "#E30421"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#383838"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#492126"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#492126"
+    ],
+    "BORDER_STRONG": [
+      "#E30421"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#F2F2F2",
+    "PRIMARY_300": "#BFBFBF",
+    "PRIMARY_500": "#666666",
+    "PRIMARY_600": "#303030",
+    "PRIMARY_700": "#272727",
+    "PRIMARY_800": "#202020",
+    "RED_500": "#E30421",
+    "RED_600": "#C9001B",
+    "GREEN_500": "#65A879",
+    "YELLOW_500": "#D9B45B",
+    "WHITE": "#F2F2F2",
+    "BLACK": "#171717"
+  },
+  "spec": 2
+}
