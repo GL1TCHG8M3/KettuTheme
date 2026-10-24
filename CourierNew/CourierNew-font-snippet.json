@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Courier New",
+    "previewText": "The Quick Brown Fox Jumps Over The Lazy Dog",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/GL1TCHG8M3/KettuTheme/blob/main/CourierNew/CourierNew-ExtraBold.ttf?raw=1",
+        "ggsans-Bold": "https://github.com/GL1TCHG8M3/KettuTheme/blob/main/CourierNew/CourierNew-Bold.ttf?raw=1",
+        "ggsans-BoldItalic": "https://github.com/GL1TCHG8M3/KettuTheme/blob/main/CourierNew/CourierNew-BoldItalic.ttf?raw=1",
+        "ggsans-ExtraBold": "https://github.com/GL1TCHG8M3/KettuTheme/blob/main/CourierNew/CourierNew-ExtraBold.ttf?raw=1",
+        "ggsans-ExtraBoldItalic": "https://github.com/GL1TCHG8M3/KettuTheme/blob/main/CourierNew/CourierNew-ExtraBoldItalic.ttf?raw=1",
+        "ggsans-Medium": "https://github.com/GL1TCHG8M3/KettuTheme/blob/main/CourierNew/CourierNew-Medium.ttf?raw=1",
+        "ggsans-MediumItalic": "https://github.com/GL1TCHG8M3/KettuTheme/blob/main/CourierNew/CourierNew-MediumItalic.ttf?raw=1",
+        "ggsans-Normal": "https://github.com/GL1TCHG8M3/KettuTheme/blob/main/CourierNew/CourierNew-Normal.ttf?raw=1",
+        "ggsans-NormalItalic": "https://github.com/GL1TCHG8M3/KettuTheme/blob/main/CourierNew/CourierNew-NormalItalic.ttf?raw=1",
+        "ggsans-Semibold": "https://github.com/GL1TCHG8M3/KettuTheme/blob/main/CourierNew/CourierNew-Semibold.ttf?raw=1",
+        "ggsans-SemiboldItalic": "https://github.com/GL1TCHG8M3/KettuTheme/blob/main/CourierNew/CourierNew-SemiboldItalic.ttf?raw=1",
+        "NotoSans-Bold": "https://github.com/GL1TCHG8M3/KettuTheme/blob/main/CourierNew/CourierNew-Bold.ttf?raw=1",
+        "NotoSans-ExtraBold": "https://github.com/GL1TCHG8M3/KettuTheme/blob/main/CourierNew/CourierNew-ExtraBold.ttf?raw=1",
+        "NotoSans-Medium": "https://github.com/GL1TCHG8M3/KettuTheme/blob/main/CourierNew/CourierNew-Medium.ttf?raw=1",
+        "NotoSans-Normal": "https://github.com/GL1TCHG8M3/KettuTheme/blob/main/CourierNew/CourierNew-Normal.ttf?raw=1",
+        "NotoSans-NormalItalic": "https://github.com/GL1TCHG8M3/KettuTheme/blob/main/CourierNew/CourierNew-NormalItalic.ttf?raw=1",
+        "NotoSans-Semibold": "https://github.com/GL1TCHG8M3/KettuTheme/blob/main/CourierNew/CourierNew-Semibold.ttf?raw=1",
+        "ggmono-Normal": "https://github.com/GL1TCHG8M3/KettuTheme/blob/main/CourierNew/CourierNew-Normal.ttf?raw=1"
+    }
+}
