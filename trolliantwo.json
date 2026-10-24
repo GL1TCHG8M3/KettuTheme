@@ -7,6 +7,54 @@
         }
     ],
     "semanticColors": {
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#383838"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#492126"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#492126"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#202020"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#272727"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#E30421"
+        ],
+        "BACKGROUND_BRAND": [
+            "#E30421"
+        ],
+        "BRAND_EXPERIMENTAL": [
+            "#E30421"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#999999"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#BFBFBF"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#E30421"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#E30421"
+        ],
+        "INTERACTIVE_SELECTED": [
+            "#E30421"
+        ],
+        "TEXT_BRAND": [
+            "#E30421"
+        ],
+        "MENTION_FOREGROUND": [
+            "#F2F2F2"
+        ],
+        "MENTION_BACKGROUND": [
+            "#492126"
+        ]
         "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
             "#171717"
         ],
@@ -156,6 +204,24 @@
         ]
     },
     "rawColors": {
+        "BRAND_260": "#F25A6B",
+        "BRAND_300": "#F04452",
+        "BRAND_330": "#E30421",
+        "BRAND_345": "#E30421",
+        "BRAND_360": "#E30421",
+        "BRAND_400": "#E30421",
+        "BRAND_430": "#E30421",
+        "BRAND_460": "#C9001B",
+        "BRAND_500": "#E30421",
+        "BRAND_530": "#C9001B",
+        "BRAND_560": "#B00019",
+        "BRAND_600": "#8F0014",
+        "BLUE_345": "#E30421",
+        "BLUE_500": "#E30421",
+        "TEAL_345": "#E30421",
+        "TEAL_500": "#E30421",
+        "GREEN_430": "#E30421",
+        "GREEN_460": "#B00019"
         "BLUE_345": "#E30421",
         "GREEN_430": "#E30421",
         "RED_430": "#E30421",
